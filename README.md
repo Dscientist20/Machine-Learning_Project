@@ -14,13 +14,13 @@ Commencer avec des modeles simples tels que:
 > [III. Quadratic Discriminant Analysis],(#qda)
 
 Le critère de performance sera:
->- Accuracy
+- Accuracy
 
 Améliorer la performance avec des méthodes d'ensemble telles que:
->- [IV. Bagging],(#bag)
->- [V. Random Forest],(#rf)
->- [VI. Boosting],(#boost)
->- [VII. Stacking](#stack)
+> [IV. Bagging],(#bag)
+> [V. Random Forest],(#rf)
+> [VI. Boosting],(#boost)
+> [VII. Stacking](#stack)
 
 > [Conclusion](#conclu)
 
