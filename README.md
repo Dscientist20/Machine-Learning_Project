@@ -1,7 +1,7 @@
 # Machine-Learning
 ## Topic : Classification
 > [Ingtroduction](#intro)
-> 
+
 > [Presentation](#pres)
 
 Une simple pratique test de la performance de quelques modele de classication sur les données MNIST, 
@@ -30,5 +30,5 @@ Améliorer la performance avec des méthodes d'ensemble telles que:
 
 > [Conclusion](#conclu)
 
-<a id="qs"></a>
+<a id="intro"></a>
 # Introduction :
