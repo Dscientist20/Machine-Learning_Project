@@ -9,9 +9,9 @@ Un sous echantillon de données,
 Commencer avec des modeles simples tels que: 
 
 # Models
->- [I. Bayes Naive],(#bayes)
->- [II. Linear Discriminant Analysis],(#lda)
--> [III. Quadratic Discriminant Analysis],(#qda)
+[I. Bayes Naive],(#bayes)
+> [II. Linear Discriminant Analysis],(#lda)
+> [III. Quadratic Discriminant Analysis],(#qda)
 
 Le critère de performance sera:
 >- Accuracy
