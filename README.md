@@ -10,7 +10,7 @@ Un sous echantillon de données,
 Commencer avec des modeles simples tels que: 
 
 # Models
-[I. Bayes Naive](#bayes)
+> [I. Bayes Naive](#bayes)
 
 > [II. Linear Discriminant Analysis](#lda)
 
