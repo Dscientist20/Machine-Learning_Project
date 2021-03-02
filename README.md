@@ -12,7 +12,7 @@ Le critère de performance sera:
 - Accuracy
 
 Améliorer la performance avec des modèle d'ensemble tels que:
--IV.  Bagging,
--V. Random Forest,
--VI. Boosting,
--VII. Stacking
+- IV.  Bagging,
+- V. Random Forest,
+- VI. Boosting,
+- VII. Stacking
